@@ -1,4 +1,4 @@
-# Instagram-MAV
+# Instagram-MAV (Mobile App Version)
 
 Instagram Clone by SimCoderYoutube (YouTube Tutorial)
 
